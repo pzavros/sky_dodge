@@ -1,0 +1,1 @@
+enum BoostType { shield, slowMo }
